@@ -155,6 +155,7 @@ Voici un cadeau. Du fait que j'ai ajouter un system de connexion, j'ai aussi fai
 
 
 **Structure du Projet**
+
 ```arduino
 votre_dossier/
 ├── api/
@@ -164,7 +165,8 @@ votre_dossier/
 │   ├── get_user_info.php
 ├── db.php
 └── sql/
-    └── database.sql```
+    └── database.sql
+```
 
 
 
